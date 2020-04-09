@@ -1,0 +1,18 @@
+.btn-color {
+	text-decoration: none;
+	font-size :24px;
+	font-weight: bold;
+	transition: color 0.15s ease;
+	background-color: #28334AFF;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: white;
+}
+.btn-color:hover{
+	color:#FBDE44FF;
+	background-color:#28334AFF;
+}
+
+#btn-nobackground{
+	background-color: Transparent;
+}
